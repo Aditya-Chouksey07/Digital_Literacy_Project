@@ -76,5 +76,3 @@ Researched UPI/Online Payment Fraud as a case study and created a prevention che
 ## 🔗 Useful Links
 - [Cyber Crime Portal](https://cybercrime.gov.in) | Helpline: **1930** (24×7)
 
----
-*CSE0001 – Digital Literacy | VIT Bhopal University | 2025–26*
