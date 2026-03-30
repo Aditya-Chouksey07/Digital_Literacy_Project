@@ -5,8 +5,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Yashraj |
-| **Registration No.** | 25BAI11556 |
+| **Name** | Aditya Chouksey |
+| **Registration No.** | 25BAI11531 |
 | **Branch** | B.Tech CSE (AI & ML) |
 | **Year** | First Year |
 | **Course Code** | CSE0001 – Digital Literacy |
